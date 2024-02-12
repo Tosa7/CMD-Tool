@@ -1,6 +1,5 @@
-<h1>Rectangle Area Calculator CMD Tool</h1>
+<h1>Area of Rectangle Calculator CMD Tool</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This Python command-line tool calculates the area of a rectangle based on user-provided length and width dimensions. It provides a simple and efficient way to compute the area of a rectangle without the need for complex mathematical calculations. This tool is useful for educational purposes, quick calculations, and as a demonstration of basic Python programming concepts.
